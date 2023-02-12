@@ -1,6 +1,6 @@
 
 
-class alberto
+class mediaEscolar
 {
     static void Main(string[] args)
     {
